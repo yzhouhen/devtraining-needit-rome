@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_home">
+    <sys_home action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <language>en</language>
+        <order>100</order>
+        <published>2022-02-10</published>
+        <short_description>Welcome to Cloud Dimensions</short_description>
+        <sys_class_name>sys_home</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-10 14:35:10</sys_created_on>
+        <sys_id>86cb8d121b6101103f3aff37dc4bcba1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Welcome to Cloud Dimensions</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_home_86cb8d121b6101103f3aff37dc4bcba1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-10 14:35:10</sys_updated_on>
+        <text><![CDATA[<div>Welcome to the home of Infinity! If you are an employee of Cloud</div>
+<div>Dimensions, please use your company login credentials to enter.</div>]]></text>
+    </sys_home>
+</record_update>
